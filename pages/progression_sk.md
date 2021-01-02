@@ -1,7 +1,7 @@
 ---
 title: Fate Weekday Progression SK List
+tagline: Updated 1/1/21
 ---
-| Updated 1/1/21         |
 |------------------------|
 | Darsaniss-stormrage    |
 | Poundofbrown-stormrage |
