@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Fate Weekday Progression SK List
 tagline: Updated 1/1/21
 ---
