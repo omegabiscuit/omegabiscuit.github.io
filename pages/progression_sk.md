@@ -1,0 +1,61 @@
+---
+title: Fate Weekday Progression SK List
+---
+| Updated 1/1/21         |
+|------------------------|
+| Darsaniss-stormrage    |
+| Poundofbrown-stormrage |
+| Bonevader-stormrage    |
+| Saintbiggs-stormrage   |
+| Ebilmogg-stormrage     |
+| Roguepup-stormrage     |
+| Zerøsan-stormrage      |
+| Natael-stormrage       |
+| Zyyx-stormrage         |
+| Doomfistah-stormrage   |
+| Plaguebaby-stormrage   |
+| Quyeo-stormrage        |
+| Çhermoon-stormrage     |
+| Àurá-stormrage         |
+| Wreckedpally-stormrage |
+| Fashoo-stormrage       |
+| Pystolperry-stormrage  |
+| Cherluna-stormrage     |
+| Maadrin-stormrage      |
+| Mìthrandìr-stormrage   |
+| Hagster-stormrage      |
+| Elemera-stormrage      |
+| Dreambrew-stormrage    |
+| Skullossus-stormrage   |
+| Keiste-stormrage       |
+| Lawraith-stormrage     |
+| Fartmcbutt-stormrage   |
+| Silverrider-stormrage  |
+| Lockbun-stormrage      |
+| Simpkøa-stormrage      |
+| Eriela-stormrage       |
+| Maelian-stormrage      |
+| Dessalines-stormrage   |
+| Pistolperry-stormrage  |
+| Fåte-stormrage         |
+| Sangaz-stormrage       |
+| Shadough-stormrage     |
+| Kaintheas-stormrage    |
+| Jinsuo-stormrage       |
+| Lymelite-stormrage     |
+| Valmonkk-stormrage     |
+| Zoobear-stormrage      |
+| Zensational-stormrage  |
+| Arcydoodlez-stormrage  |
+| Caralis-stormrage      |
+| Burgowits-stormrage    |
+| Mustynutz-stormrage    |
+| Friarbacon-stormrage   |
+| Finnargoe-stormrage    |
+| Sträwberrii-stormrage  |
+| Clementines-stormrage  |
+| Nephini-stormrage      |
+| Treemont-stormrage     |
+| Dklizzneiin-stormrage  |
+| Hazmeme-stormrage      |
+| Bragollach-stormrage   |
