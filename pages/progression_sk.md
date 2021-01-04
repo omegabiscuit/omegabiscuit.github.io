@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fate Weekday Progression SK List
-tagline: Updated 1/1/21
+tagline: Updated 1/4/21
 ---
 |---|----------------------|
 |1  |Darsaniss-stormrage   |
@@ -19,33 +19,33 @@ tagline: Updated 1/1/21
 |13 |Çhermoon-stormrage    |
 |14 |Àurá-stormrage        |
 |15 |Wreckedpally-stormrage|
-|16 |Fashoo-stormrage      |
+|16 |Maadrin-stormrage     |
 |17 |Pystolperry-stormrage |
 |18 |Cherluna-stormrage    |
-|19 |Maadrin-stormrage     |
+|19 |Elemera-stormrage     |
 |20 |Mìthrandìr-stormrage  |
 |21 |Hagster-stormrage     |
-|22 |Elemera-stormrage     |
+|22 |Keiste-stormrage      |
 |23 |Dreambrew-stormrage   |
 |24 |Skullossus-stormrage  |
-|25 |Keiste-stormrage      |
+|25 |Silverrider-stormrage |
 |26 |Lawraith-stormrage    |
 |27 |Fartmcbutt-stormrage  |
-|28 |Silverrider-stormrage |
-|29 |Lockbun-stormrage     |
-|30 |Simpkøa-stormrage     |
+|28 |Lockbun-stormrage     |
+|29 |Simpkøa-stormrage     |
+|30 |Dessalines-stormrage  |
 |31 |Eriela-stormrage      |
 |32 |Maelian-stormrage     |
-|33 |Dessalines-stormrage  |
+|33 |Fåte-stormrage        |
 |34 |Pistolperry-stormrage |
-|35 |Fåte-stormrage        |
+|35 |Shadough-stormrage    |
 |36 |Sangaz-stormrage      |
-|37 |Shadough-stormrage    |
+|37 |Lymelite-stormrage    |
 |38 |Kaintheas-stormrage   |
 |39 |Jinsuo-stormrage      |
-|40 |Lymelite-stormrage    |
+|40 |Zoobear-stormrage     |
 |41 |Valmonkk-stormrage    |
-|42 |Zoobear-stormrage     |
+|42 |Nephini-stormrage     |
 |43 |Zensational-stormrage |
 |44 |Arcydoodlez-stormrage |
 |45 |Caralis-stormrage     |
@@ -55,8 +55,8 @@ tagline: Updated 1/1/21
 |49 |Finnargoe-stormrage   |
 |50 |Sträwberrii-stormrage |
 |51 |Clementines-stormrage |
-|52 |Nephini-stormrage     |
+|52 |Hazmeme-stormrage     |
 |53 |Treemont-stormrage    |
 |54 |Dklizzneiin-stormrage |
-|55 |Hazmeme-stormrage     |
-|56 |Bragollach-stormrage  |
+|55 |Bragollach-stormrage  |
+|56 |Fashoo-stormrage      |
