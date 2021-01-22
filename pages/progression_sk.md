@@ -3,6 +3,7 @@ layout: page
 title: Fate Weekday Progression SK List
 tagline: updated 1/22 11:56
 ---
+
 |---|----------------------|
 |1  |Zyyx-stormrage        |
 |2  |Skullossus-stormrage  |
