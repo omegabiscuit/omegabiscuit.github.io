@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fate Weekday Progression SK List
-tagline: updated 1/22 11:56
+tagline: updated 2/6 11:05AM
 ---
 
 |---|----------------------|
@@ -13,7 +13,7 @@ tagline: updated 1/22 11:56
 |6  |Roguepup-stormrage    |
 |7  |Simpkøa-stormrage     |
 |8  |Shadough-stormrage    |
-|9  |Silverrider-stormrage |
+|9  |Natael-stormrage      |
 |10 |Doomfistah-stormrage  |
 |11 |Plaguebaby-stormrage  |
 |12 |Quyeo-stormrage       |
@@ -24,43 +24,45 @@ tagline: updated 1/22 11:56
 |17 |Pystolperry-stormrage |
 |18 |Cherluna-stormrage    |
 |19 |Bragollach-stormrage  |
-|20 |Dessalines-stormrage  |
+|20 |Fåte-stormrage        |
 |21 |Nephini-stormrage     |
 |22 |Ebilmogg-stormrage    |
 |23 |Dreambrew-stormrage   |
-|24 |Zerøsan-stormrage     |
+|24 |Çhermoon-stormrage    |
 |25 |Maadrin-stormrage     |
 |26 |Lawraith-stormrage    |
 |27 |Fartmcbutt-stormrage  |
 |28 |Doomfishah-stormrage  |
 |29 |Gigerit-stormrage     |
-|30 |Mìthrandìr-stormrage  |
+|30 |Poundofbrown-stormrage|
 |31 |Eriela-stormrage      |
 |32 |Maelian-stormrage     |
 |33 |Jinsuo-stormrage      |
 |34 |Pistolperry-stormrage |
-|35 |Natael-stormrage      |
-|36 |Sangaz-stormrage      |
-|37 |Çhermoon-stormrage    |
+|35 |Zerøsan-stormrage     |
+|36 |Valmonkk-stormrage    |
+|37 |Lockbun-stormrage     |
 |38 |Kaintheas-stormrage   |
-|39 |Valmonkk-stormrage    |
-|40 |Fåte-stormrage        |
-|41 |Hagster-stormrage     |
-|42 |Poundofbrown-stormrage|
-|43 |Zensational-stormrage |
-|44 |Arcydoodlez-stormrage |
-|45 |Caralis-stormrage     |
-|46 |Burgowits-stormrage   |
-|47 |Mustynutz-stormrage   |
-|48 |Friarbacon-stormrage  |
-|49 |Finnargoe-stormrage   |
-|50 |Sträwberrii-stormrage |
-|51 |Clementines-stormrage |
-|52 |Lockbun-stormrage     |
-|53 |Treemont-stormrage    |
-|54 |Dklizzneiin-stormrage |
-|55 |Lymelite-stormrage    |
-|56 |Fashoo-stormrage      |
-|57 |Bonevader-stormrage   |
-|58 |Darsaniss-stormrage   |
-|59 |Xks-stormrage         |
+|39 |Lymelite-stormrage    |
+|40 |Hagster-stormrage     |
+|41 |Fashoo-stormrage      |
+|42 |Zensational-stormrage |
+|43 |Arcydoodlez-stormrage |
+|44 |Caralis-stormrage     |
+|45 |Burgowits-stormrage   |
+|46 |Mustynutz-stormrage   |
+|47 |Friarbacon-stormrage  |
+|48 |Finnargoe-stormrage   |
+|49 |Sträwberrii-stormrage |
+|50 |Clementines-stormrage |
+|51 |Bonevader-stormrage   |
+|52 |Treemont-stormrage    |
+|53 |Dklizzneiin-stormrage |
+|54 |Darsaniss-stormrage   |
+|55 |Silverrider-stormrage |
+|56 |Bobvilla-stormrage    |
+|57 |Pistolp-stormrage     |
+|58 |Xks-stormrage         |
+|59 |Sangaz-stormrage      |
+|60 |Dessalines-stormrage  |
+|61 |Mìthrandìr-stormrage  |
